@@ -1,0 +1,278 @@
+body{
+    margin: 0;
+    margin-top: 0;
+}
+.p-size{
+    font-weight: 200;
+    font-size: 18px;
+}
+.top-banner{
+    background-image: url(images/top-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 175px;
+    padding-top: 20px;
+    
+}
+.top-header{
+    font-size: 50px;
+    color: white;
+    font-family: 'Maven Pro', sans-serif;
+    padding-left: 325px;
+    padding-right: 325px;
+    text-align: center;
+    
+}
+.st{
+    padding-top: 150px;
+
+}
+.p1{
+    padding-left: 25%;
+    padding-right: 25%;
+    color: white;
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 200;
+    margin-bottom: 50px;
+
+}
+.donate-now-button{
+    text-decoration: none;
+    background-color: rgb(255, 104, 104);
+    padding: 13px 30px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 43%;
+    
+}
+.donate-sec{
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    width: 65%;
+    padding-top: 5%;
+    font-family: 'Maven Pro', sans-serif;
+    
+    
+}
+.donate-sec-p{
+    color: gray;
+}    
+
+
+.tk{
+    padding: 5%;
+    background-color: whitesmoke;
+    margin-right: 2%;
+    
+    margin-left: 2%;
+    color: dimgray;
+}
+.taka{
+    color: silver;
+    font-weight: 300;
+    font-family: 'Maven Pro', sans-serif;
+}
+hr{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: -12px;
+    margin-bottom: 150px;
+}
+
+
+.plan-sec-item{
+    display: flex;
+    width: 85%;
+    margin-left: 70px;
+    font-family: 'Maven Pro', sans-serif;
+    padding-bottom: 50px;
+    
+     
+}
+.donate-plan-heading{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: 'Maven Pro', sans-serif;
+}
+.plan-p{
+    text-align: center;
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-bottom: 50px;
+    color: gray;
+    font-family: 'Maven Pro', sans-serif;
+}
+.food-div{
+    
+    margin-left: 50px;
+    margin-right: -20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(215, 240, 231);
+    
+}
+.shelter-div{
+    
+    margin-left: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+    background-color: rgb(243, 227, 230);
+    
+}
+.edu-div{
+    
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    background-color: rgb(245, 245, 223);
+    
+}
+
+.half-width{
+    width: 50%;
+    
+}
+.contribute-sec{
+    padding-top: 100px;
+    margin-bottom: 150px;
+}
+.contribute-text{
+    padding-left: 150px;
+    
+}
+.contribute-header{
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    padding-right: 50px;
+    
+}
+.contribute-p{
+    color: gray;
+    font-family: 'Maven Pro', sans-serif;
+    padding-right: 150px;
+    
+}
+.contribute-p2{
+    padding-bottom: 50px;
+}
+.contribute-button{
+    text-decoration: none;
+    background-color: rgb(255, 104, 104);
+    padding: 13px 30px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    
+    
+}
+.contribute-sec-img{
+    width: 80%;
+    margin-right: 50px;
+    margin-top: px;
+    border-radius: 10px;
+}
+.contribute-img-div{
+    padding-top: 50px;
+}
+.flexible{
+    display: flex;
+}
+.survive-img{
+    width: 80%;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.survive-header{
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    padding-left: 40px;
+    padding-right: 50px;
+}
+.survive-p{
+    color: gray;
+    font-family: 'Maven Pro', sans-serif;
+    padding-left: 50px;
+    padding-right: 150px;
+    margin-bottom: 40px;
+}
+.contribute-button-position{
+    margin-left: 50px;
+
+}
+.contribute-sec-2{
+    margin-bottom: 100px;
+}
+.email-sec{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 100px;
+}    
+.email-div{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    background-color: blanchedalmond;
+    padding: 30px 50px;
+    margin-left: 25%;
+}
+.email-box{
+    background-color: silver;
+    padding-left: 20px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20%;
+    margin-top: 10%;
+    color: gray;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.subscribe-button{
+    text-decoration: none;
+    background-color: rgb(255, 104, 104);
+    padding: 7px 30px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 55px;
+}
+.footer{
+    background-color: black;
+    padding-bottom: 5%;
+}
+.humble{
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+    color: rgb(255, 102, 0);
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 50px;
+}
+.footer-p{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 200;
+    font-size: 15px;
+    padding-top: 10px;
+    font-family: 'Maven Pro', sans-serif;
+}
